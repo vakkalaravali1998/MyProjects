@@ -102,3 +102,4 @@ test('only return when adapted', function (assert) {
   assert.ok(!$dropdown.hasClass('original'));
   assert.ok($dropdown.hasClass('modified'));
 });
+new lines added
